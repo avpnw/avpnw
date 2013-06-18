@@ -1,0 +1,10 @@
+name: Ассоциация врачей профпатологов Санкт-Петербурга
+pygments: true
+relative_permalinks: false
+paginate: 3
+paginate_path: "news/page:num"
+markdown: rdiscount
+=======
+name: Your New Jekyll Site
+pygments: true
+markdown: rdiscount

@@ -1,0 +1,26 @@
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="{{ site.url }}/"><b>ассоциация профпатологов </b><img src="https://dl.dropboxusercontent.com/u/15654124/avpnw/logo34x34.png" height="17" width="17"> </a>
+          <div class="navbar-content">
+            <ul class="nav">
+              <li{% if page.categories == 'ассоциация' %} class="active"{% endif %}>
+                <a href="{{ site.url }}/assoc/ustav/">Ассоциация</a> 
+              </li>
+              <li{% if page.categories == 'специалистам' %} class="active"{% endif %}>
+                <a href="{{ site.url }}/spec/category/">Специалистам</a> 
+              </li>
+              <li{% if page.categories == 'горцентр' %} class="active"{% endif %}>
+                <a href="{{ site.url }}/centre/about/">Городской центр профпатологии</a> 
+              </li>
+              <li{% if page.categories == 'контакты' %} class="active"{% endif %}>
+                <a href="{{ site.url }}/contacts/">Контакты</a> 
+              </li>
+            </ul>
+          </div>
+          <form class="navbar-form pull-right">
+            <button type="submit" class="btn">войти</button>
+          </form>
+        </div>
+      </div>
+    </div>

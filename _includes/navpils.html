@@ -1,0 +1,16 @@
+        <div class="span3">
+          <ul class="nav  nav-pills nav-stacked">
+            {% for categorie in page.categories limit:1 %}
+              {% assign category = categorie %}
+            {% endfor %} 
+  
+
+            {% for pag in site.pages %}
+              {% if pag.categories == category  %}
+              <li{% if pag.title == page.title %} class="active"{% endif %}>
+                <a href="{{pag.url}}">{{pag.title}}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
