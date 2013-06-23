@@ -3,10 +3,14 @@
         <div class="container">
           <div class="container-fluid">
           <div class="row-fluid">
+           <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+             <span class="icon-bar"></span>
+           </a>
           <div class="span3">
-          <a class="brand" href="{{ site.url }}/avpnw/"><img src="https://dl.dropboxusercontent.com/u/15654124/avpnw/logo271x50.png"></a>
-        </div>
-        <div class="span9">
+            <a class="brand" href="{{ site.url }}/avpnw/"><img src="https://dl.dropboxusercontent.com/u/15654124/avpnw/logo271x50.png"></a>
+          </div>
+        <div class="span7">
           <div class="navbar-content">
             <ul class="nav">
               <li{% if page.categories == 'ассоциация' %} class="active"{% endif %}>
@@ -23,12 +27,15 @@
               </li>
             </ul>
           </div>
+         </div>
+         <div class="span2">
           <form class="navbar-form pull-right">
             <div class="btn-group">
               <a class="btn">регистация</a>
               <a class="btn">войти</a> 
             </div>
           </form>
+          </div>
         </div>
         </div>
         </div>
