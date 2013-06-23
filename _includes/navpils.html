@@ -8,7 +8,7 @@
             {% for pag in site.pages %}
               {% if pag.categories == category  %}
               <li{% if pag.title == page.title %} class="active"{% endif %}>
-                <a href="{{pag.url}}">{{pag.title}}</a>
+                <a href="/avpnw/{{pag.url}}">{{pag.title}}</a>
               </li>
               {% endif %}
             {% endfor %}
