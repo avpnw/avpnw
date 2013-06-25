@@ -1,5 +1,4 @@
 name: Ассоциация врачей профпатологов Санкт-Петербурга
 pygments: true
 relative_permalinks: false
-markdown: redcloth
-
+markdown: rdiscount
