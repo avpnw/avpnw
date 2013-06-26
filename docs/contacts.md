@@ -5,24 +5,12 @@ categories: контакты
 permalink: /contacts/
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+<iframe width="100%" height="330" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=ru&amp;geocode=&amp;q=%D0%B3%D0%BE%D1%80%D0%BE%D0%B4+%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,+%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,+%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82+%D0%9B%D0%B8%D1%82%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9+56+%D0%B2&amp;aq=&amp;sll=59.934683,30.349431&amp;sspn=0.002032,0.004823&amp;ie=UTF8&amp;hq=&amp;hnear=%D0%BF%D1%80%D0%BE%D1%81%D0%BF.+%D0%9B%D0%B8%D1%82%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9,+56,+%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3,+191014&amp;t=m&amp;ll=59.934129,30.348079&amp;spn=0.007525,0.01929&amp;z=14&amp;output=embed"></iframe>
 
-one   | two
-------|------
-three | four
+2013. © Ассоциация врачей профпатологов Санкт-Петербурга и Ленинградской области
 
-Jekyll also offers powerful support for code snippets:
+Санкт-Петербург, Литейный пр., д. 56, литера "В"
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+тел.: 812-275-7446
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+e-mail: avpnw@yandex.ru
