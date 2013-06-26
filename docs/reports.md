@@ -12,7 +12,7 @@ one   | two
 ------|------
 three | four
 
-Jekyll also offers powerful support for code snippets:
+->Jekyll also offers powerful support for code snippets:<-
 
 {% highlight ruby %}
 def print_hi(name)
