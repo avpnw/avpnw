@@ -1,0 +1,106 @@
+/*navbar*/
+.top-bar{
+	margin-bottom: 0px;
+	background-color: #2C3E50;
+}
+.top-bar-section li a:not(.button){
+	background: #2C3E50;
+}
+.top-bar-section li a:hover{
+	background: #16A085;
+}
+.top-bar-section .divider,
+.top-bar-section [role="separator"] {
+  border-bottom: solid 1px #fff;
+  border-top: solid 1px #2C3E50;
+  clear: both;
+  height: 1px;
+  width: 100%; 
+}
+
+.top-bar.expanded .title-area {
+background: #2C3E50;
+}
+
+@media only screen and (min-width: 58.75em) {
+	.top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
+		border-bottom: none;
+		border-top: none;
+		border-right: solid 1px #fff;
+		border-left: solid 1px #2C3E50;
+		clear: none;
+		height: 45px;
+		width: 0px;
+	}
+}
+
+/*topbar*/
+.top{
+	overflow: hidden;
+	position: relative;
+
+	width: 100%
+	padding-bottom: 40px;
+
+}
+.top .header{
+	font-size: 24px;
+	padding-top:20px;
+	line-height: 30px;
+	margin: 0px;
+	color:#2C3E50;
+}
+.top .subheader{
+	font-size: 16px;
+	line-height: 20px;
+	margin: 0px;
+	padding-bottom: 20px;
+	color:#2C3E50;
+}
+.top .subheader a,
+.top .header a{
+	color:#2C3E50;
+}
+
+.links{
+	margin-top: 43px;
+}
+.logo{
+padding-left: 70px;
+background: url(https://dl.dropboxusercontent.com/u/15654124/avpnw/logo-new.png) no-repeat center left;
+}
+
+/*sidenav*/
+.side-nav{
+	font-size: 18px;
+}
+.side-nav li>a:hover{
+	color:#ccc;
+}
+
+
+/*footer*/
+#copyright{
+	background-color: #3f3f3f;
+	color: #fff;
+	padding: 11px 0;
+	margin-top: 30px;
+}
+#copyright a{
+	color: #fff;
+	font-size: 14px;
+}
+#copyright a:hover{
+	color: #16A085;
+	font-size: 14px;
+}
+
+
+a{
+	color:#16A085;
+}
+
+.side-nav li a {
+display: block;
+color: #16A085;
+}

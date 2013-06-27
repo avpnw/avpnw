@@ -12,7 +12,11 @@ one   | two
 ------|------
 three | four
 
-Jekyll also offers powerful support for code snippets:
+->Jekyll also offers powerful support for code snippets:<-
+
+[for more info on how to get the most out of Jekyll
+###и как с многострочностью
+обстоят дела][more]
 
 {% highlight ruby %}
 def print_hi(name)
@@ -22,7 +26,12 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+>
+> %hero-unit%
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+
+
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
+[more]: class:hero-unit
