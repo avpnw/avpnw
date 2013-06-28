@@ -5,7 +5,7 @@ permalink: /site-map/
 ---
       {% for categorie in site.categories %}
             <div class="large-6 columns">
-            <h4>{{categorie}}</h4>
+            <h4></h4>
             <ul>
             {% for pag in site.pages %}
               {% if pag.categories == categorie  %}
