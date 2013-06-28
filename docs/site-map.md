@@ -5,7 +5,7 @@ permalink: /site-map/
 ---
       {% for categorie in page.categories %}
             <div class="large-6 columns">
-            <h4>{categorie}</h4>
+            <h4>{categorie.title}</h4>
             <ul>
 
             </ul>
