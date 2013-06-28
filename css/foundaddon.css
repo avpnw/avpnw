@@ -64,6 +64,7 @@ background: #2C3E50;
 
 .links{
 	margin-top: 43px;
+	margin-bottom: 20px;
 }
 .logo{
 padding-left: 70px;
@@ -76,6 +77,13 @@ background: url(https://dl.dropboxusercontent.com/u/15654124/avpnw/logo-new.png)
 }
 .side-nav li>a:hover{
 	color:#ccc;
+}
+
+/*body*/
+.reg-container{
+	padding: 40px 0;
+	margin: 0;
+	background: #eee;
 }
 
 
