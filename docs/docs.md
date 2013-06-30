@@ -38,17 +38,14 @@ permalink: /centre/docs/
             </div>
           </li></ul><a href="#" class="orbit-prev">Prev <span></span></a><a href="#" class="orbit-next">Next <span></span></a><div class="orbit-slide-number"><span>3</span> of <span>3</span></div><div class="orbit-timer paused"><span></span><div class="orbit-progress" style="width: 0%;"></div></div></div><ol class="orbit-bullets"><li data-orbit-slide-number="1" class=""></li><li data-orbit-slide-number="2" class=""></li><li data-orbit-slide-number="3" class="active"></li></ol>
 </div>
-
 <hr>
-
-            <p>Ullam blanditiis ea enim ipsum, iusto excepturi, beatae, ab dolorem magni
+<p>Ullam blanditiis ea enim ipsum, iusto excepturi, beatae, ab dolorem magni
             dolorum doloremque nostrum labore. Odio repellendus ut numquam voluptatem
             ducimus anim, sed ad irure quae, minus culpa veritatis sed nesciunt similique
             officia perferendis corrupti at fugit occaecat adipisci cumque. Quia delectus
             vitae aliquip quia laboris amet itaque voluptatum fugit labore eaque laboris
             excepteur rerum eu corrupti cum voluptatibus debitis consequatur.</p>
-            
-            <p>Et eligendi quos consequuntur vel molestias, quia, quisquam nostrud suscipit
+<p>Et eligendi quos consequuntur vel molestias, quia, quisquam nostrud suscipit
             soluta, nihil assumenda ut. Nesciunt fuga exercitation voluptatum quaerat
             ratione itaque, doloribus molestiae nostrum quisquam, dicta irure iste
             qui, impedit cum consequatur itaque earum maxime quasi. Nobis anim asperiores
