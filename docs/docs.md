@@ -6,37 +6,28 @@ permalink: /centre/docs/
 ---
 <div class="slideshow-wrapper">
         <span class="preloader"></span>
-        <div class="orbit-container orbit-stack-on-small"><ul id="featured1" data-orbit="" data-options="timer_speed:5000;" class="orbit-slides-container" style="margin-left: -300%; width: 500%; height: 200px;">
-          <li data-orbit-slide="" style="width: 20%;">
+        <div class="orbit-container orbit-stack-on-small">
+        	<ul id="featured1" data-orbit="" data-options="timer_speed:5000;" class="orbit-slides-container" style="margin-left: -300%; width: 500%; height: 200px;">
+          <li data-orbit-slide="съезд делегатов" style="width: 20%;">
             <img src="{{site.url}}/avpnw/img/heads.jpg">
             <div class="orbit-caption">
               Caption Three. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
             </div>
           </li>
-          <li class="" style="width: 20%;">
-            <img src="{{site.url}}/avpnw/img/heads.jpg">
-            <div class="orbit-caption">
-              Caption One. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-            </div>
-          </li>
-          <li style="width: 20%;" class="">
+          <li style="width: 20%;" data-orbit-slide="пользуйтесь фонендоскопами!" >
             <img src="{{site.url}}/avpnw/img/hends.jpg">
             <div class="orbit-caption">
               Caption Two. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
             </div>
           </li>
-          <li style="width: 20%;" class="active">
+          <li style="width: 20%;" class="active" data-orbit-slide="инновации в медицине">
             <img src="{{site.url}}/avpnw/img/ent.jpg">
             <div class="orbit-caption">
               Caption Three. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
             </div>
           </li>
-        <li data-orbit-slide="" style="width: 20%;">
-            <img src="{{site.url}}/avpnw/img/ent.jpg">
-            <div class="orbit-caption">
-              Caption One. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-            </div>
-          </li></ul><a href="#" class="orbit-prev">Prev <span></span></a><a href="#" class="orbit-next">Next <span></span></a><div class="orbit-slide-number"><span>3</span> of <span>3</span></div><div class="orbit-timer paused"><span></span><div class="orbit-progress" style="width: 0%;"></div></div></div><ol class="orbit-bullets"><li data-orbit-slide-number="1" class=""></li><li data-orbit-slide-number="2" class=""></li><li data-orbit-slide-number="3" class="active"></li></ol>
+		</ul>
+		</div>
 </div>
 <hr>
 <p>Ullam blanditiis ea enim ipsum, iusto excepturi, beatae, ab dolorem magni
