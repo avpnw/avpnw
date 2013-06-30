@@ -5,7 +5,7 @@ categories: ассоциация
 permalink: /assoc/reg/
 ---
 
-![Чащин](https://dl.dropboxusercontent.com/u/15654124/avpnw/cha.jpg)
+->![Чащин](https://dl.dropboxusercontent.com/u/15654124/avpnw/cha.jpg)<-
 
 #### Дорогие друзья!
 
