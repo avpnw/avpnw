@@ -4,34 +4,25 @@ title:  "отчетность"
 categories: специалистам
 permalink: /spec/report/
 ---
+<div class="section-auto-sample-accordion" data-section="accordion">
+  <section>
+    <p class="title-sample" data-section-title><a href="#section1">Периодичность проведения профилактического обследования сотрудников на туберкулез.</a></p>
+    <div class="content-sample" data-slug="section1" data-section-content>
+      <p>Приказ Министерства здравоохранения и социального развития России № 302н от 12.04.2011 «Об утверждении перечней вредных и (или) опасных производственных факторов и работ, при выполнении которых проводятся предварительные и периодические медицинские осмотры (обследования), и Порядка проведения предварительных и периодических медицинских осмотров (обследований) работников, занятых на тяжелых работах и на работах с вредными и (или) опасными условиями труда» (далее - Приказ №302н) определяет периодичность проведения предварительного и периодического медицинского осмотра.</p>
+    </div>
+  </section>
+  <section>
+    <p class="title-sample" data-section-title><a href="#section1">Необходимость и кратность получения сотрудником справки от врача - фтизиатра о статусе нахождения на учете в противотуберкулезном диспансере и допуске на работу.</a></p>
+    <div class="content-sample" data-slug="section2" data-section-content>
+      <p>согласно Приказу №302н,  Приложение 3, раздел 4 «Медицинские противопоказания к допуску к работам» указано, что активные формы туберкулеза любой локализации являются общим медицинским противопоказанием к допуску к выполнению работ, при которых «обязательно проведение предварительных и периодических медицинских осмотров…». Соответственно при предварительном медицинском осмотре справка от врача фтизиатра о статусе нахождения на учете в противотуберкулезном диспансере необходима.</p>
+    </div>
+  </section>
+    <section>
+    <p class="title-sample" data-section-title><a href="#section1">НПериодичность проведения обследования сотрудника врачом дерматовенерологом с исследованием крови на сифилис и бактериоскопического исследования на заболевания, передающиеся половым путем, так как в Приказе не указана необходимость проведения бактериоскопического исследования на заболевания, передающиеся половым путем, однако в перечне противопоказаний для работы такие заболевания имеются.</a></p>
+    <div class="content-sample" data-slug="section2" data-section-content>
+      <p>В настоящее время порядок и объем обследования определены Приказом №302н, выполнение которого является обязательным.Распоряжения Комитета по здравоохранению Администрации Санкт-Петербурга и Центра Государственного санитарно-эпидемиологического надзора в Санкт-Петербурге от 25.04.2001 № 184-р/19 (с изм. от 25.09.2001) «Об организации осмотров лиц декретированных профессий в Санкт-Петербурге…..»  не должны противоречить данному Приказу, поэтому в них должны быть внесены изменения.
+</p>
+    </div>
+  </section>
+</div>
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-one   | two
-------|------
-three | four
-
-->Jekyll also offers powerful support for code snippets:<-
-
-[for more info on how to get the most out of Jekyll
-###и как с многострочностью
-обстоят дела][more]
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
->
-> %hero-unit%
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
-[more]: class:hero-unit
