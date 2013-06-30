@@ -4,7 +4,7 @@ title:  "отчетность"
 categories: специалистам
 permalink: /spec/report/
 ---
-<div class="section-container accordion auto" data-section="accordion">
+<div class="section-container accordion" data-section="accordion">
   <section>
     <p class="title" data-section-title><a href="#section1">обследование на туберкулез.</a></p>
     <div class="content" data-slug="section1" data-section-content>
