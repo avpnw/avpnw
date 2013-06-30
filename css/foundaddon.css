@@ -85,6 +85,9 @@ background: url(https://dl.dropboxusercontent.com/u/15654124/avpnw/logo-new.png)
 	margin: 0;
 	background: #eee;
 }
+.section-container > section > .title a {
+	white-space: normal;
+}
 
 /*footer*/
 #copyright{
