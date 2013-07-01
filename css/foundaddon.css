@@ -21,6 +21,10 @@
 .top-bar.expanded .title-area {
 background: #2C3E50;
 }
+.top-bar-section ul li.active > a {
+background: #E74C3C;
+color: white;
+}
 
 @media only screen and (min-width: 58.75em) {
 	.top-bar-section > ul > .divider, .top-bar-section > ul > [role="separator"] {
