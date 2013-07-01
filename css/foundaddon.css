@@ -88,6 +88,31 @@ background: url(https://dl.dropboxusercontent.com/u/15654124/avpnw/logo-new.png)
 .section-container > section > .title a {
 	white-space: normal;
 }
+/*download section*/
+.down-zip {
+padding-left: 70px;
+padding-bottom: 30px;
+background: url(https://raw.github.com/avpnw/avpnw/master/img/b-mail-icon_zip-48.png) no-repeat center left;
+}
+.down-zip h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+}
+.down-doc {
+padding-left: 70px;
+padding-bottom: 30px;
+background: url(https://raw.github.com/avpnw/avpnw/master/img/b-mail-icon_doc-48.png) no-repeat center left;
+}
+.down-doc h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+}
+.down-pdf {
+padding-left: 70px;
+padding-bottom: 30px;
+background: url(https://raw.github.com/avpnw/avpnw/master/img/b-mail-icon_pdf-48.png) no-repeat center left;
+}
+.down-pdf h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+}
 
 /*footer*/
 #copyright{
