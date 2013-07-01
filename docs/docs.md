@@ -43,7 +43,7 @@ permalink: /centre/docs/
             modi ad temporibus vel ut consequat nesciunt, anim rerum vero, fuga aliquam
             harum.</p>
 <hr>
-<div class"down-doc">
+<div class="down-doc">
 	<h4>Постановление Правительства РФ № 689 от 20.08.2009</h4>
 	<p>Об утверждении правил аккредитации граждан и организаций, привлекаемых органами государственного контроля (надзора)
 	и органами муниципального контроля к проведению мероприятий по контролю</p> <a href="http://dl.dropbox.com/u/15654124/postanovlenie.doc">скачать</a>
