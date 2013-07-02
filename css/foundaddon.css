@@ -95,6 +95,13 @@ p{
 .row .row {
 margin-bottom: 20px;
 }
+blockquote {
+color: #2C3E50;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+border-bottom: 1px solid #dddddd;
+background: #ebe9da;
+}
 .section-container > section > .title a {
 	white-space: normal;
 }
