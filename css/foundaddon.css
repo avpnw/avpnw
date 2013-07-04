@@ -85,7 +85,10 @@ background: url(https://dl.dropboxusercontent.com/u/15654124/avpnw/logo-new.png)
 
 /*body*/
 p{
-	padding-bottom: 10px;
+	padding-bottom: 2em;
+}
+em{
+	font-style: Georgia, 'Times New Roman', Times, serif;;
 }
 table thead tr th, table tfoot tr th, table tbody tr td, table tr td, table tfoot tr td {
 	line-height: 1.4em;
@@ -106,11 +109,10 @@ table tr.even, table tr.alt, table tr:nth-of-type(even) {
 margin-bottom: 20px;
 }
 blockquote {
-color: #2C3E50;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-style: italic;
-border-left: none;
-border-bottom: 1px solid #dddddd;
+border: none;
+background:#ECF0F1;
 }
 .section-container > section > .title a {
 	white-space: normal;
