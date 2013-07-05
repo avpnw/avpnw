@@ -117,6 +117,9 @@ font-style: italic;
 border: none;
 background:#ECF0F1;
 }
+.label.alert {
+background-color: #2C3E50;
+}
 .section-container > section > .title a {
 	white-space: normal;
 }
