@@ -123,6 +123,9 @@ background-color: #2C3E50;
 .section-container > section > .title a {
 	white-space: normal;
 }
+.news-date{
+	border-bottom: solid 1px;
+}
 /*download section*/
 .down-zip {
 padding-left: 70px;
