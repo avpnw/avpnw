@@ -2,7 +2,7 @@
 layout: docs
 title:  "вопросы"
 categories: специалистам
-permalink: /spec/question
+permalink: /spec/question/
 ---
 > Все ли сотрудники организации, обслуживающей подземные водопроводные сети должны проходить обязательный мед.осмотр?
 
