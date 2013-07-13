@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "члены ассоциации"
+title:  "эксперты ассоциации"
 categories: ассоциация
 permalink: /assoc/memb/
 ---
